@@ -1,3 +1,8 @@
+#everything {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
 h1 {
     text-align: center;
     color: white;
@@ -15,7 +20,6 @@ body {
     margin: 40px auto;
     text-align: center;
     color: white;
-    width: 50%;
 }
 
 h3 {
@@ -26,9 +30,18 @@ h3 {
 
 #list {
     width: 373px;
-    align-self: center;
     margin: 40px auto;
     font-weight: bold;
+}
+
+#prophet_img {
+    max-width: 50%;
+    margin: 0 auto;
+}
+
+.president_nelson {
+    width: 100%;
+    text-align: center;
 }
 
 #atonement {
@@ -36,10 +49,11 @@ h3 {
     margin: 40px auto;
     text-align: center;
     color: white;
-    width: 35%
 }
 
 #atonement p {
     color: black;
     font-size: small;
+    margin-top: 0px;
+    margin-bottom: 0px;
 }

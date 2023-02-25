@@ -1,0 +1,19 @@
+body {
+    display: grid;
+    margin: 0;
+}
+
+#header {
+    width: 100%;
+}
+
+div {
+    background-color: gray;
+}
+
+div img{
+    border-radius: 50%;
+    border: 10px solid rgb(77, 77, 77);
+    width: 20%;
+    margin: 50px 5% 50px 5%;
+}
